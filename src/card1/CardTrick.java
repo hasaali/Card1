@@ -5,6 +5,7 @@
  */
 /* I am the modefier my ID 991387991 */
 /* THIS NOTES ADDED FROM REMOTE SIDE */
+/* THIS IS STEP 7 REQUIMENT FOR LAST COMMIT */
 package card1;
 
 
